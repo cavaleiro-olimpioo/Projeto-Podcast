@@ -1,5 +1,9 @@
 @charset "UTF-8";
 
+html, body {
+    overflow-x: hidden;
+}
+
 :root{
     --cor01: #2E2233;
     --cor02: #4E2E5C;
