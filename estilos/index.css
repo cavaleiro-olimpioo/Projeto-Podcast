@@ -65,6 +65,17 @@ main p{
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.377);
 }
 
+strong.grifes{
+    background-color: #d675ff80;
+    color: #4E2E5C;
+    padding: 1px;
+}
+
+strong.grifes:hover{
+    background-color: #c847ff80;
+    color: black;
+}
+
 aside.container{
     text-align: center;
 }
@@ -124,4 +135,8 @@ footer{
 
 footer a{
     color: white;
+}
+
+div.bio:hover{
+    background-color: rgb(20, 20, 20);
 }
